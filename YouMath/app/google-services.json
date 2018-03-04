@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5829765094",
+    "firebase_url": "https://youmath-68bd0.firebaseio.com",
+    "project_id": "youmath-68bd0",
+    "storage_bucket": "youmath-68bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5829765094:android:22dd1f06cd7f3847",
+        "android_client_info": {
+          "package_name": "com.slownett.youmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5829765094-j1g3ahhhbcrnce904podim589eeg9vnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slownett.youmath",
+            "certificate_hash": "c13a8ffb2fb33c181ee69c5f8774cbf0ac955c79"
+          }
+        },
+        {
+          "client_id": "5829765094-otbddmvvbp3suppf1ih244gdf1hk5tnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TdZ8w5KXZ7Z2xkJff8VD9OkZvXrYyqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5829765094-otbddmvvbp3suppf1ih244gdf1hk5tnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
